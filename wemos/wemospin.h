@@ -1,0 +1,1 @@
+#define relay D2
