@@ -4,7 +4,7 @@
 #include "wemospin.h"
 
 //WiFi dan Token
-char auth[] = "uPgIWEteat_fblexZnSM3K88BdC1p_EO";
+char auth[] = "jnmtFX05VgJOTng3QnWJVoBCNpPHxkEj";
 char ssid[] = "robotku";
 char pass[] = "robot1234";
 
