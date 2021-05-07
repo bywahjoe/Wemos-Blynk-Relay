@@ -1,1 +1,1 @@
-#define relay D2
+#define relay 16

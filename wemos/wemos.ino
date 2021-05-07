@@ -14,6 +14,7 @@ BLYNK_WRITE(V10) {
 
   if (klik)setON();
   else setOFF();
+  
 }
 void setup() {
   // put your setup code here, to run once:
